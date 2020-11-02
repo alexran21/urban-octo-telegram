@@ -1,5 +1,5 @@
 # Horiseon Code Refacactor
-![What is this](screenshot.png)
+!(/relative/path/to/screenshot.png?raw=true)
 ---
 ## Refactored List
 Semantic HTML elements updated
